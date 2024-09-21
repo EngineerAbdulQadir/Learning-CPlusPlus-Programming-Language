@@ -30,6 +30,11 @@ Here are the current topics for the syllabus, which will be updated regularly as
 - **Conditional Statements**
 - **Loops**
 - **Functions**
+- **Input/Output**
+- **Variables**
+- **Data Types**
+- **Operators**
+- **Unary Operators**
 
 ## **Getting Started**
 
