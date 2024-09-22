@@ -7,7 +7,7 @@ Welcome to the Learning Data Science and Algorithms with C++ repository, organiz
 The Learning Data Science and Algorithms sessions focus on revisiting key C++ programming concepts, algorithms, and data science techniques. These sessions are designed to help both beginners and intermediate students improve their problem-solving skills and master real-world applications through practical exercises.
 
 ### **Instructors:**
-- **Abdul Qadir Imran** - Lead Instructor, Certified Cloud Native Developer (CND)
+- **Abdul Qadir Imran** - Lead Instructor, DevOps Engineer (DOE)
 - **Abdullah Iqbal** - Co-Instructor, Full-Stack Developer (FSD)
 
 ### **Learning Goals:**
