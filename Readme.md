@@ -1,5 +1,5 @@
 ## **Learning Data Science and Algorithms with C++ - GloVersity**
-
+ 
 Welcome to the Learning Data Science and Algorithms with C++ repository, organized by GloVersity (GloProg). This repository contains all the work, assignments, and code examples discussed during the Online Sessions aimed at helping students strengthen their understanding of data science concepts and algorithm design using C++.
 
 ## **Overview**
